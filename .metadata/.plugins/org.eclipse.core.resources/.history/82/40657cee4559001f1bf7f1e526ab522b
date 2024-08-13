@@ -17,10 +17,6 @@ public class NumberChange2 {
 		System.out.println("num1 : " + num1 + " ,num2 : " + num2);
 
 		int x = num1-num2;
-		int x = num1-num2;
-		int x = num1-num2;
-		
-		int num3= 
 		if(x>=0) {System.out.println(-x);}
 		else {System.out.println(x);}
 	}
