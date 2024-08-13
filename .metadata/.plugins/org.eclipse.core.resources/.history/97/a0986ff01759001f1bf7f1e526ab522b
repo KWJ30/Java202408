@@ -1,0 +1,6 @@
+
+public class Hello {
+	{
+		System.out.println("자바는 처음...");
+}
+}
