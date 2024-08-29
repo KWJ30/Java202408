@@ -8,18 +8,10 @@ public class TEST2 {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.println("1.다시 2.종료");
+		double a= Math.pow(5, 20);
 		
-		int i= sc.nextInt();
+		System.out.printf("%e",a);
 		
-		while(i==1) {
-			
-			System.out.println("1.다시 2.종료");
-			
-			i= sc.nextInt();
-			
 		}
 	}
-}
-
 
